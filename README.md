@@ -1,4 +1,18 @@
-# QR-code-component
-my solution for  QR code component (www.frontendmentor.io Html/Css challenges)
-this is my solution to a challenge that I found in Frontend Mentor website, I tried my best,this is my first project using html/css.
-challege link: https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H
+# Chemso - QR-code-component
+This is a solution to the [solution to the QR-code-component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
+
+U can see the website [here](https://chemsodev.github.io/QR-code-component/).
+# Overview
+## Screenshot
+![website screenshoot](Screenshot.png?raw=true "screenshoot")
+# My process
+## Built with
+
+ * Semantic HTML5 markup
+  
+ * CSS custom properties
+  
+ * CSS Flexbox
+
+# 💪💥🔥
+   
